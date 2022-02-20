@@ -1,0 +1,11 @@
+<resources>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="newname">TranQuill</string>
+    <string name="bu_breathe">start</string>
+    <string name="command_breathe">Take deep breaths</string>
+    <string name="command_start">Start</string>
+    <string name="command_stop">Stop</string>
+    <string name="in">IN</string>
+    <string name="Out">OUT</string>
+    <string name="Quotes">Quote of the Day</string>
+</resources>
